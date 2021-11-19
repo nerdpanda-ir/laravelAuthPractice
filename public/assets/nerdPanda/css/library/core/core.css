@@ -1,0 +1,12 @@
+/*------ import ------*/
+    @import url("../font/font.css");
+    @import url("../reset/reset.css");
+    @import url("../class/class.css");
+/*------ import ------*/
+body
+{
+    direction: ltr;
+    font-family: 'iranSansUltraLight' , "JetBrains Mono";
+    background-color: #181818;
+    color: #00e094;
+}

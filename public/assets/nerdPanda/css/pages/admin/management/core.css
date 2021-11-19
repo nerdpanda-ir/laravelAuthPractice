@@ -1,0 +1,21 @@
+.userActive, .userBan {
+    font-size: 40px !important;
+}
+.userActive{
+    color: #00c585;
+}
+.userBan
+{
+    color: #f30415;
+}
+.actionBtn
+{
+    outline: none;
+    border: none;
+    margin-bottom: 25px !important;
+}
+td img
+{
+    width: 200px ;
+    height: 200px;
+}

@@ -1,0 +1,8 @@
+/*------ import ------*/
+@import url("../../nerdPanda/css/library/font/font.css");
+@import url("../../nerdPanda/css/library/class/class.css");
+/*------ import ------*/
+body
+{
+    font-family: 'iranSansLight';
+}
